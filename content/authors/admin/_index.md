@@ -3,11 +3,12 @@
 title: Sumit Dangi
 
 # Name pronunciation (optional)
-# name_pronunciation: 
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Sumit
-last_name: Dangi
+first_name: Shiung Wu
+last_name: Chien
+
 # Status emoji
 status:
   icon: ☕️
@@ -19,85 +20,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Pre-doctoral Researcher
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Indian Institute of Science, Bangalore, India
-    url: ""
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'sumitdangi314@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/sumit_dangi_
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/n0xtua
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sumit-dangi-601487223/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=iyVov84AAAAJ&hl=en&authuser=4
+    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Machine Learning
-  - Reinforcement Learning
-  - Robotics
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  # - area: BS-MS Data Science and Engineering
-  #   institution: Indian Institute of Science Education and Research Bhopal, India
-  #   date_start: 2019-08-01
-  #   date_end: 2024-7-29
-  #   summary: |
-  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  #   button:
-  #     text: 'Read Thesis'
-  #     url: 'https://example.com'
-
-  - area: BS-MS Data Science and Engineering
-    institution: Indian Institute of Science Education and Research Bhopal, India
-    date_start: 2019-08-01
-    date_end: 2024-7-29
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
-      
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Master's Thesis
-    company_name: Artificial Intelligence and Robotics Lab, India Institute of Science, Bangalore, India
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-05-15
-    date_end: '2024-04-31'
-    summary: |2-
-      - Developed an attention-aware reinforcement learning (RL) method for trajectory planning in real-world driving scenarios.
-      - Published and presented research at IEEE SMC 2024.
-
-  - position: Bacherlor's Thesis
-    company_name: Indian Institute of Science Education and Research Bhopal, India
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: 2023-04-31
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      - A Reinforcement Learning approach to solve the Perimeter Defence Problem (PDP)
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,14 +144,15 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Hindi
-    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
