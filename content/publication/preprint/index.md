@@ -1,7 +1,8 @@
 ---
 title: "Deep Attention Driven Reinforcement Learning (DAD-RL) for Autonomous Decision-Making in Dynamic Environment"
 authors:
-- admin
+# - admin
+- ''
 date: "2024-09-28T00:00:00Z"
 doi: ""
 
@@ -23,8 +24,7 @@ abstract: Autonomous Vehicle (AV) decision making in urban environments is inher
 summary: ""
 
 tags:
-- AI
-- Robotics
+- AI, Robotics
 
 featured: true
 
