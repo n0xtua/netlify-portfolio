@@ -1,48 +1,49 @@
 ---
-title: "An example preprint / working paper"
+title: "Deep Attention Driven Reinforcement Learning (DAD-RL) for Autonomous Decision-Making in Dynamic Environment"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-09-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Conference Paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Autonomous Vehicle (AV) decision making in urban environments is inherently challenging due to the dynamic interactions with surrounding vehicles. For safe planning, AV must understand the weightage of various spatiotemporal interactions in a scene. Contemporary works use colossal transformer architectures to encode interactions mainly for trajectory prediction, resulting in increased computational complexity. To address this issue without compromising spatiotemporal understanding and performance, we propose the simple Deep Attention Driven Reinforcement Learning (DADRL) framework, which dynamically assigns and incorporates the significance of surrounding vehicles into the ego's RL driven decision making process. We introduce an AV centric spatiotemporal attention encoding (STAE) mechanism for learning the dynamic interactions with different surrounding vehicles. To understand map and route context, we employ a context encoder to extract features from context maps. The spatiotemporal representations combined with contextual encoding provide a comprehensive state representation. The resulting model is trained using the Soft Actor Critic (SAC) algorithm. We evaluate the proposed framework on the SMARTS urban benchmarking scenarios without traffic signals to demonstrate that DADRL outperforms recent state of the art methods. Furthermore, an ablation study underscores the importance of the context-encoder and spatio temporal attention encoder in achieving superior performance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
-- Large Language Models
+- AI
+- Robotics
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://arxiv.org/pdf/2407.08932
+url_code: 'https://github.com/jayabrata97/Deep-Attention-Driven-Reinforccement-Learning-DAD-RL'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
