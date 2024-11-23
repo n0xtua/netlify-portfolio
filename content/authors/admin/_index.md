@@ -90,7 +90,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-05-15
-    date_end: 2024-04-31
+    date_end: 2024-04-30
     summary: |2-
       - Developed an attention-aware reinforcement learning (RL) method for decision making in real-world driving scenarios. 
       - Published and presented research at IEEE SMC 2024. 
@@ -100,7 +100,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
-    date_end: 2023-04-31
+    date_end: 2023-04-30
     summary: |
       A Reinforcement Learning approach to solve the Perimeter Defence Problem (PDP).
 
