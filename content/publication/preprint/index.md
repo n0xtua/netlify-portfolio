@@ -58,7 +58,7 @@ image:
 #   Otherwise, set `projects: []`.
 
 projects:
-- ''
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
