@@ -35,17 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I have prior experience in the research of reinforcement learning methods applicable for robotics application such as motion planning for an autonomous agent or multi-agent task scheduling. My interest in intelligent robotics has been constantly growing and I wish to explore the range of tasks and methods that can be leveraged by autonomous systems for impactful applications. I am particularly excited about studying reinforcement learning and multi-agent systems. Topics like computer vision and game theory also fall under my area of interests as they are crutial components of intelligent and autonomous robotic systems.
+
+        I am looking for PhD positions focused on the mentioned topics or a subset of these. I would be happy to connect with anyone who could guide me in this journey or up for a chat about common interests.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -53,16 +52,16 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
