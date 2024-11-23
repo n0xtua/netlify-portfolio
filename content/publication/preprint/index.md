@@ -1,8 +1,12 @@
 ---
 title: "Deep Attention Driven Reinforcement Learning (DAD-RL) for Autonomous Decision-Making in Dynamic Environment"
 authors:
-# - admin
-- ''
+- admin
+- Jayabrata Chowdhury
+- Venkataramanan Shivaraman
+- Sumit Dangi
+- Suresh Sundaram
+- P.B.Sujit
 date: "2024-09-28T00:00:00Z"
 doi: ""
 
