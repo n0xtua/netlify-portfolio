@@ -124,7 +124,7 @@ skills:
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
-        icon: '🛠️'
+        icon: 🛠️
 
   - name: Hobbies
     color: '#eeac02'
@@ -133,15 +133,15 @@ skills:
       - name: Volleyball, Table Tennis
         description: ''
         percent: 60
-        icon: play
+        icon: person-simple-walk
       - name: Gaming
         description: ''
         percent: 100
-        icon: cat
+        icon: play
       - name: Puzzles
         description: ''
         percent: 80
-        icon: puzzle
+        icon: puzzle-piece
 
 languages:
   - name: English
