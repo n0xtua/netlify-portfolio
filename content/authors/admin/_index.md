@@ -104,6 +104,16 @@ work:
     summary: |
       A Reinforcement Learning approach to solve the Perimeter Defence Problem (PDP).
 
+  - position: Research Internship
+    company_name: Robert Bosch Center for Data Science and Artificial Intelligence, IIT Madras
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-15
+    date_end: 2022-07-30
+    summary: |
+      - Designed efficient water distribution networks from the available road networks using algorithmic and learning based methods.
+      - Developed a web-app to showcase the project.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
