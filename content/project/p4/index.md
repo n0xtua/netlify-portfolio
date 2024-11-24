@@ -1,6 +1,6 @@
 ---
 title: Library seat occupancy detection
-date: ''
+date: '2021-11-01'
 external_link: https://github.com/n0xtua/Seat-Occupancy-Detection-Project
 tags:
   - Hugo
@@ -8,9 +8,7 @@ tags:
   - Markdown
 ---
 
-- A method to detect seat occupancy in the College Library using an object detection model on the
+A method to detect seat occupancy in the College Library using an object detection model on the
 CCTV images.
-- We utilize the YOLO model to detect objects and classify a seat as occupied or empty, which
-was then visualized on a website.
 
 <!--more-->
