@@ -160,8 +160,7 @@ awards:
     awarder: IEEE SMC 2024
     icon: ''
     summary: |
-      First author research paper accepted for publication at the IEEE Systems, Man and Cybernetics
-(SMC) 2024 conference at Kuching, Malaysia.
+      First author research paper accepted for publication at the IEEE Systems, Man and Cybernetics (SMC) 2024 conference at Kuching, Malaysia.
   - title: Travel Grant and Poster Presentation
     url: ''
     date: '2024-10-10'
