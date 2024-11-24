@@ -1,6 +1,6 @@
 ---
 title: Wind energy-based path planning for electric UAVs using MDPs
-date: '2022-04'
+date: '2022-04-01'
 external_link: https://github.com/n0xtua/Wind-based-path-planning-for-UAVs
 tags:
   - ''
