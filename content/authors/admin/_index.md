@@ -85,6 +85,14 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Pre-doctoral Research Associate
+    company_name: Indian Institute of Science (IISc), Bangalore
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-02
+    date_end: ''
+    summary: |2-
+      Multi-agent Reinforcement Learning and Game Theory for Autonomous Robotic Systems.
   - position: MS Thesis
     company_name: Artificial Intelligence and Robotics Lab, Indian Institute of Science, Bangalore
     company_url: ''
