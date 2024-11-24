@@ -120,15 +120,11 @@ skills:
       - name: OpenCV, scikit-learn, NLTK, NumPy, Matplotlib, Pandas, OpenAI Gym, PyTorch
         description: ''
         percent: 100
-        icon: cubes
+        icon: cube
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
-        icon: tools
-      - name: Unicorns
-        description: I have a pet unicorn.
-        icon: 🦄
-        icon_pack: emoji
+        icon: tool
 
   - name: Hobbies
     color: '#eeac02'
