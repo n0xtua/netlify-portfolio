@@ -124,8 +124,7 @@ skills:
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
-        icon: 🛠️
-
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
