@@ -170,7 +170,7 @@ awards:
       Received travel grant for Poster Presentation at IEEE SMC 2024.
   - title: Conference Participation
     url: ''
-    certificate_url: https://www.datacamp.com
+    certificate_url: ''
     date: '2024-01-04'
     awarder: CODS-COMAD 2024
     icon: ''
