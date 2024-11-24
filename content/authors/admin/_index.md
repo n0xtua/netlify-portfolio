@@ -130,18 +130,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Volleyball, Table Tennis
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: play
+      - name: Gaming
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Puzzles
         description: ''
         percent: 80
-        icon: camera
+        icon: puzzle
 
 languages:
   - name: English
