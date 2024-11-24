@@ -198,4 +198,4 @@ awards:
 
 ## About Me
 
-I am recent graduate from IISER Bhopal, BS-MS in Data Science and Engineering. A range of topics in Machine Learning and Robotics spark interest in me and I aim to keep exploring these areas in the hope to find my passion.
+I am a recent graduate from IISER Bhopal, BS-MS in Data Science and Engineering. I am interested in a range of topics such as Machine Learning, Reinforcement Learning and Robotics, and I aim to keep exploring these areas in hope to find my passion.
