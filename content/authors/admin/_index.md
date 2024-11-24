@@ -121,12 +121,15 @@ skills:
         description: ''
         percent: 100
         icon: cubes
-        icon_pack: fas
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
-        icon: 🛠
+        icon: tools
+      - name: Unicorns
+        description: I have a pet unicorn.
+        icon: 🦄
         icon_pack: emoji
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
