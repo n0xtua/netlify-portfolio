@@ -155,26 +155,26 @@ languages:
 
 awards:
   - title: Research Paper
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: ''
     date: '2024-07-11'
     awarder: IEEE SMC 2024
-    # icon: coursera
+    icon: ''
     summary: |
       First author research paper accepted for publication at the IEEE Systems, Man and Cybernetics
 (SMC) 2024 conference at Kuching, Malaysia.
   - title: Travel Grant and Poster Presentation
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ''
     date: '2024-10-10'
     awarder: IEEE SMC 2024
-    # icon: edx
+    icon: ''
     summary: |
       Received travel grant for Poster Presentation at IEEE SMC 2024.
   - title: Conference Participation
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    url: ''
     certificate_url: https://www.datacamp.com
     date: '2024-01-04'
     awarder: CODS-COMAD 2024
-    # icon: datacamp
+    icon: ''
     summary: |
       Participated in the CODS-COMAD 2024 conference at IIIT Bangalore, India.
 ---
