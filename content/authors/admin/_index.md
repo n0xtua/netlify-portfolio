@@ -120,11 +120,11 @@ skills:
       - name: OpenCV, scikit-learn, NLTK, NumPy, Matplotlib, Pandas, OpenAI Gym, PyTorch
         description: ''
         percent: 100
-        icon: cube
+        icon: python
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
-        icon: tool
+        icon: cube
 
   - name: Hobbies
     color: '#eeac02'
