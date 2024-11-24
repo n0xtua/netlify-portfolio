@@ -36,9 +36,9 @@ sections:
       subtitle: ''
       text: |-
 
-        I have prior experience in the research of reinforcement learning methods applicable for robotics application such as motion planning for an autonomous agent or multi-agent task scheduling. My interest in intelligent robotics has been constantly growing and I wish to explore the range of tasks and methods that can be leveraged by autonomous systems for impactful applications. I am particularly excited about studying reinforcement learning and multi-agent systems. Topics like computer vision and game theory also fall under my area of interests as they are crutial components of intelligent and autonomous robotic systems.
+        I have prior experience in the research of reinforcement learning methods with applications in robotics such as motion planning for an autonomous agent or multi-agent task scheduling. My interest in intelligent robotics has been constantly growing and I am eager to explore the range of tasks and methods that can be leveraged by autonomous systems for impactful applications. I am particularly excited about studying reinforcement learning and multi-agent systems. Research areas like computer vision and game theory also fall under my area of interests as they are crutial components of intelligent and autonomous robotic systems.
 
-        I am looking for PhD positions focused on the mentioned topics or a subset of these. I would be happy to connect with anyone who could guide me in this journey or up for a chat about common interests.
+        I am looking for PhD positions focused on the mentioned topics or a subset of these. I would be delighted to connect with anyone who could guide me in this journey or be up for a chat about common interests.
     design:
       columns: '1'
   - block: collection
