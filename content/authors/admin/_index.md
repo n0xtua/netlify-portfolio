@@ -121,12 +121,12 @@ skills:
         description: ''
         percent: 100
         icon: cubes
-        icon-pack: fas
+        icon_pack: fas
       - name: Linux, Git, LateX, Webots, SUMO
         description: ''
         percent: 100
         icon: 🛠
-        icon-pack: emoji
+        icon_pack: emoji
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
