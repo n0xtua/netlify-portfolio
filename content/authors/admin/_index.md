@@ -58,9 +58,9 @@ education:
     date_end: 2024-07-29
     summary: |
       GPA: 8.35/10
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
 
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
